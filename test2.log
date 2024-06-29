@@ -1,0 +1,8 @@
+Error on line 4 : Duplicate label definiton
+Error on line 7 : missing operand
+Error on line 8 : unexpected operand
+Error on line 9 : extra on end of line
+Error on line 10 : bogus label name
+Error on line 11 : bogus mnemonic
+Error on line 12 : bogus mnemonic
+Error on line 13 : no such label
